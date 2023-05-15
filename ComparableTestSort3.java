@@ -38,7 +38,7 @@ public static void main(String[] args) {
 	Collections.sort(al);
 	for (Student6 b : al) {
 		System.out.println(b.rollno+" "+b.name+" "+b.age);
-		System.out.println("This is the data in the code"
+		System.out.println("This is the data in the code");
 	}
 }
 }
